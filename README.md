@@ -32,6 +32,9 @@ The dataset contains **34,500 e-commerce transaction records** with information 
 - **Jupyter Notebook**
 - **Kaggle**
 
+## 📓 Jupyter Notebook
+[Click here to view the complete analysis](./e-commerce-sales-analysis-python-pandas.ipynb)
+
 ## 🔍 Analysis Performed
 - Data Inspection
 - Data Cleaning
