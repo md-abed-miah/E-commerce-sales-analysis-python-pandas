@@ -1,78 +1,71 @@
-# E-commerce sales analysis
+# 🛒 E-commerce Sales Analysis using Python & Pandas
 
-## project overview
+## 📌 Project Overview
+This project analyzes e-commerce transaction data using **Python** and **Pandas** to identify sales trends, product performance, customer behavior, and key business insights. The analysis helps businesses make data-driven decisions.
 
-this project analyzes e-commerce transaction data using python and pandas to identify sales trends, product performance, customer behavior, and key business insights.
+## 🎯 Objectives
+- Analyze overall sales performance
+- Identify top-performing products and categories
+- Analyze regional sales performance
+- Understand customer behavior
+- Analyze monthly sales trends
+- Evaluate payment methods and return rates
+- Measure important business KPIs
+- Create visualizations for better decision-making
 
-## objectives
+## 📊 Dataset
+The dataset contains **34,500 e-commerce transaction records** with information about:
+- Orders and customers
+- Products and categories
+- Price, discount, and quantity
+- Payment methods
+- Order dates and delivery time
+- Regions
+- Returns
+- Total sales and profit margin
+- Customer age and gender
 
-- analyze overall sales performance
-- identify top-performing products and categories
-- analyze regional sales performance
-- understand customer behavior
-- analyze monthly sales trends
-- evaluate payment methods and return rates
-- measure important business kpis
-- create visualizations for better decision-making
+## 🛠️ Tools & Technologies
+- **Python**
+- **Pandas**
+- **Matplotlib**
+- **Jupyter Notebook**
+- **Kaggle**
 
-## dataset
+## 🔍 Analysis Performed
+- Data Inspection
+- Data Cleaning
+- Date Conversion
+- Sales Analysis
+- Product Analysis
+- Category Analysis
+- Regional Analysis
+- Customer Analysis
+- Payment Method Analysis
+- Return Analysis
+- Monthly Sales Analysis
+- Profit Analysis
+- Business KPI Analysis
 
-the dataset contains 34,500 e-commerce transaction records with information about:
+## 📈 Visualizations
+The project includes the following visualizations:
+- Top 5 Products by Sales
+- Region-wise Sales
+- Category-wise Sales
+- Payment Method Usage
+- Monthly Sales Trends
 
-- orders and customers
-- products and categories
-- price, discount, and quantity
-- payment methods
-- order dates
-- delivery time
-- regions
-- returns
-- total sales and profit margin
-- customer age and gender
+## 💡 Key Insights
+The analysis identifies high-performing products, categories, and regions while providing deep insights into customer behavior, payment preferences, delivery performance, and return patterns.
 
-## tools and technologies
+## 👨‍💻 Author
+**Md. Abed Miah**  
+Data Analyst | Excel & Python Dashboard Developer  
+📧 oficialabed@gmail.com  
+📱 +880 1731122699  
+🔗 [LinkedIn](https://linkedin.com/in/md-abed-miah)  
+💻 [GitHub](https://github.com/md-abed-miah)
 
-- python
-- pandas
-- matplotlib
-- jupyter notebook
-- kaggle
-
-## analysis performed
-
-- data inspection
-- data cleaning
-- date conversion
-- sales analysis
-- product analysis
-- category analysis
-- regional analysis
-- customer analysis
-- payment method analysis
-- return analysis
-- monthly sales analysis
-- profit analysis
-- business kpi analysis
-
-## visualizations
-
-the project includes visualizations for:
-
-- top 5 products by sales
-- region-wise sales
-- category-wise sales
-- payment method usage
-- monthly sales trends
-
-## key insights
-
-the analysis identifies high-performing products, categories, and regions while providing insights into customer behavior, payment preferences, delivery performance, and return patterns.
-
-## project structure
-
-```text
-e-commerce-sales-analysis/
-│
-├── sales_analysis.ipynb
-├── ecommerce_sales.csv
-└── readme.md
+---
+© 2026 Md. Abed Miah. All Rights Reserved.  
+This project is for portfolio viewing only. Unauthorized commercial use prohibited.
